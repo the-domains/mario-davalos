@@ -1,7 +1,7 @@
 name: Mario Davalos
 favicon: null
-layout_spectrum: 0.7971236035227776
-typography_spectrum: 0.9427359043620527
+layout_spectrum: 0.17467
+typography_spectrum: 0.24887
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
   brandStrength: 0.7963297113310546
-  lightness: 0.5220715727191418
-  saturation: 0.9013215380255133
-  rhythmicContrast: 0.9917100206948817
+  lightness: 0.625
+  saturation: 0.3125
+  rhythmicContrast: 1
 purpose: []
